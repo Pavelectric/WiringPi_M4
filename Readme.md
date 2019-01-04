@@ -39,3 +39,6 @@ Unpack it with a team (at your discretion):
 Example table:
 
 ![alt text](https://github.com/Pavelectric/M4/blob/master/M4_Readall.png)
+
+Files and materials from the following source are used:
+[wiki.friendlyarm](http://wiki.friendlyarm.com/wiki/index.php/WiringPi-Python_for_RK3399/zh)
