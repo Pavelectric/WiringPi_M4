@@ -1,6 +1,6 @@
-### What's so interesting - here is a description and some files for working with GPIO I / O on the M4 card.
+## What's so interesting - here is a description and some files for working with GPIO I / O on the M4 card.
 
-So ... installing tools for working with GPIO has two ways:
+#### So ... installing tools for working with GPIO has two ways:
 1. If you use to work Python 2.
 2. If you use to work Python 3.
 
@@ -8,7 +8,7 @@ By default I will talk about Python3, and for Python2 I will make special notes.
 
 To work correctly, you need the following packages (install them):
 
-**$ sudo apt-get install git python-dev python-setuptools python3-dev python3-setuptools swig**
+***$ sudo apt-get install git python-dev python-setuptools python3-dev python3-setuptools swig***
 
 Next, you need the file "setuptools-33.1.1.zip", it is here in the folder. 
 Unpack it with a team (at your discretion):
