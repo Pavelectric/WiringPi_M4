@@ -6,9 +6,9 @@
 
 #### By default I will talk about Python3, and for Python2 I will make special notes.
 
-###To work correctly, you need the following packages (install them):
+### To work correctly, you need the following packages (install them):
 
-***$ sudo apt-get install git python-dev python-setuptools python3-dev python3-setuptools swig***
+```$ sudo apt-get install git python-dev python-setuptools python3-dev python3-setuptools swig```
 
 ### Next, you need the file "setuptools-33.1.1.zip", it is here in the folder. 
 Unpack it with a team (at your discretion):
