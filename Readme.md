@@ -22,6 +22,7 @@ Unpack it with a team (at your discretion):
 ### And install the package with the command:
 
 ``$ sudo python3 setup.py install``
+
 (If you are using Python2 - ```$ sudo python2 setup.py install```)
 
 ### Now we proceed to the installation of WiringPi itself:
