@@ -34,5 +34,4 @@ After the installation is complete, check and execute the command:
 **$ gpio readall**
 
 You should get a table in the terminal window, in which GPIO parameters are specified with reference to physical pins.
-Example table
-![alt text](https://github.com/Pavelectric/M4/blob/master/M4_Readall.png)
+Example table![alt text](https://github.com/Pavelectric/M4/blob/master/M4_Readall.png)
