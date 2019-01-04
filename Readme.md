@@ -13,16 +13,16 @@
 ### Next, you need the file "setuptools-33.1.1.zip", it is here in the folder. 
 Unpack it with a team (at your discretion):
 
-**$ unzip setuptools-33.1.1.zip**
+```$ unzip setuptools-33.1.1.zip```
 
 Next, go to the folder with the unpacked arching:
 
-**$ cd setuptools-33.1.1**
+```$ cd setuptools-33.1.1```
 
 And install the package with the command:
 
-**$ sudo python3 setup.py install**
-(If you are using Python2 - ***$ sudo python2 setup.py install***)
+``$ sudo python3 setup.py install``
+(If you are using Python2 - ```$ sudo python2 setup.py install```)
 
 Now we proceed to the installation of WiringPi itself:
 
