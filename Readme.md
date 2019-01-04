@@ -15,26 +15,26 @@ Unpack it with a team (at your discretion):
 
 ```$ unzip setuptools-33.1.1.zip```
 
-Next, go to the folder with the unpacked arching:
+### Next, go to the folder with the unpacked arching:
 
 ```$ cd setuptools-33.1.1```
 
-And install the package with the command:
+### And install the package with the command:
 
 ``$ sudo python3 setup.py install``
 (If you are using Python2 - ```$ sudo python2 setup.py install```)
 
-Now we proceed to the installation of WiringPi itself:
+### Now we proceed to the installation of WiringPi itself:
 
 ```$ sudo easy_install wiringpi-2.44.4-py3.6-linux-aarch64.egg```
 
 (If you are using Python2 - ```$ sudo easy_install-2.7 wiringpi-2.44.4-py2.7-linux-aarch64.egg```)
 
-After the installation is complete, check and execute the command:
+### After the installation is complete, check and execute the command:
 
 ```$ gpio readall```
 
-You should get a table in the terminal window, in which GPIO parameters are specified with reference to physical pins.
+### You should get a table in the terminal window, in which GPIO parameters are specified with reference to physical pins.
 Example table:
 
 ![alt text](https://github.com/Pavelectric/M4/blob/master/M4_Readall.png)
