@@ -27,7 +27,7 @@ And install the package with the command:
 Now we proceed to the installation of WiringPi itself:
 
 ```$ sudo easy_install wiringpi-2.44.4-py3.6-linux-aarch64.egg```
-(If you are using Python2 - $ sudo easy_install-2.7 wiringpi-2.44.4-py2.7-linux-aarch64.egg)
+(If you are using Python2 - ```$ sudo easy_install-2.7 wiringpi-2.44.4-py2.7-linux-aarch64.egg```)
 
 After the installation is complete, check and execute the command:
 
