@@ -5,6 +5,15 @@ Everything you need is in the package wiringpi-v2.44-friendlyelec-rk3399.deb.
 Installation is done with
 `` $ sudo dpkg -i wiringpi-v2.44-friendlyelec-rk3399.deb``
 
+### After the installation is complete, check and execute the command:
+
+```$ gpio readall```
+
+### You should get a table in the terminal window, in which GPIO parameters are specified with reference to physical pins.
+Example table:
+
+![alt text](https://github.com/Pavelectric/M4/blob/master/M4_Readall.png)
+
 
 #### Next, install WiringPi for Python. Installing tools for working with GPIO has two ways:
 1. If you use to work Python 2.
@@ -37,14 +46,6 @@ Unpack it with a team (at your discretion):
 
 (If you are using Python2 - ```$ sudo easy_install-2.7 wiringpi-2.44.4-py2.7-linux-aarch64.egg```)
 
-### After the installation is complete, check and execute the command:
-
-```$ gpio readall```
-
-### You should get a table in the terminal window, in which GPIO parameters are specified with reference to physical pins.
-Example table:
-
-![alt text](https://github.com/Pavelectric/M4/blob/master/M4_Readall.png)
 
 Files and materials from the following source are used:
 [wiki.friendlyarm](http://wiki.friendlyarm.com/wiki/index.php/WiringPi-Python_for_RK3399/zh)
