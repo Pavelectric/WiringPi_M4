@@ -2,7 +2,8 @@
 
 ### First you need to install WiringPi for the system. 
 Everything you need is in the package wiringpi-v2.44-friendlyelec-rk3399.deb.
-Installation is done with `` $ sudo dpkg -i wiringpi-v2.44-friendlyelec-rk3399.deb``
+Installation is done with
+`` $ sudo dpkg -i wiringpi-v2.44-friendlyelec-rk3399.deb``
 
 
 #### Next, install WiringPi for Python. Installing tools for working with GPIO has two ways:
