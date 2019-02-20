@@ -42,9 +42,9 @@ Unpack it with a team (at your discretion):
 
 ### Now we proceed to the installation of WiringPi itself:
 
-```$ sudo easy_install-2.7 wiringpi-2.44.4-py2.7-linux-aarch64.egg```
+```$ sudo easy_install wiringpi-2.44.4-py3.6-linux-aarch64.egg```
 
-(If you are using Python3 - ```$ sudo easy_install wiringpi-2.44.4-py3.6-linux-aarch64.egg```)
+(If you are using Python2 - ```$ sudo easy_install-2.7 wiringpi-2.44.4-py2.7-linux-aarch64.egg```)
 
 Files and materials from the following source are used:
 [wiki.friendlyarm](http://wiki.friendlyarm.com/wiki/index.php/WiringPi-Python_for_RK3399/zh)
