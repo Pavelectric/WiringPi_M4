@@ -1,6 +1,11 @@
 ## What's so interesting - here is a description and some files for working with GPIO I / O on the M4 card.
 
-#### So ... installing tools for working with GPIO has two ways:
+### First you need to install WiringPi for the system. 
+Everything you need is in the package wiringpi-v2.44-friendlyelec-rk3399.deb.
+Installation is done with `` $ sudo dpkg -i wiringpi-v2.44-friendlyelec-rk3399.deb``
+
+
+#### Next, install WiringPi for Python. Installing tools for working with GPIO has two ways:
 1. If you use to work Python 2.
 2. If you use to work Python 3.
 
