@@ -3,6 +3,7 @@
 ### First you need to install WiringPi for the system. 
 Everything you need is in the package wiringpi-v2.44-friendlyelec-rk3399.deb.
 Installation is done with
+
 `` $ sudo dpkg -i wiringpi-v2.44-friendlyelec-rk3399.deb``
 
 ### After the installation is complete, check and execute the command:
